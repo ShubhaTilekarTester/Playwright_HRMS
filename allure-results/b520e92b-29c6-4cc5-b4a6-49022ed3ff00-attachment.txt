@@ -1,0 +1,7 @@
+Number of rows 7
+Number of columns 4
+number of rows & columns 28
+Data of particular cell 
+
+          C++
+        

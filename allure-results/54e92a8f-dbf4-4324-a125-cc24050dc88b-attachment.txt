@@ -1,0 +1,2 @@
+Username and Password entered
+Login button clicked

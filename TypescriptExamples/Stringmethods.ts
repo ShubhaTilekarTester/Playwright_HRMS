@@ -1,0 +1,11 @@
+let str : string = "Shubhada Aditya";
+console.log(str.toString());
+console.log(str.concat());
+console.log(str.toUpperCase());
+console.log(str.toLowerCase());
+console.log(str.trim());
+console.log(str.charAt(0));
+console.log(str.indexOf("Shubha"));
+console.log(str.replace("Shubhada", "akshada"));
+console.log(str.split(" "));
+console.log(str.repeat(2));
